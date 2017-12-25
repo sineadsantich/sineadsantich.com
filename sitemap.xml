@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
+	   	<loc>https://sineadsantich.github.io/sineadsantich.com/en/sitemap.xml</loc>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://example.org/de/sitemap.xml</loc>
+	   	<loc>https://sineadsantich.github.io/sineadsantich.com/de/sitemap.xml</loc>
 		
 	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
 		
