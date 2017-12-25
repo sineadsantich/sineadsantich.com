@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://sineadsantich.github.io/sineadsantich.com/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://sineadsantich.github.io/sineadsantich.com/de/sitemap.xml</loc>
-		
-	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://sineadsantich.com//#intro</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#work</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#about</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#contact</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#elements</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#formspree</loc>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sineadsantich.com//#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
